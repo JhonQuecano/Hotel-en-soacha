@@ -1,0 +1,139 @@
+*{
+  margin: 0%;
+  padding: 0px;
+}
+body{
+  background: #765538;
+}
+.pagina {
+  width: 100%;
+  margin: auto;
+  overflow: hidden;
+  
+}
+
+.cabecera{
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  height: 170px; 
+  background-color: #5A4638;
+  top: 0px;
+  left: 0%;
+  border-bottom: solid 5px;
+}
+.cabeza2{
+  height: 120px;
+  width: 95.5%;
+  margin: 30px 30px 30px 30px;    
+  background-color: #3A1B09;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;;
+  text-align: center;
+  border-radius: 20px;
+  overflow: auto;
+  display: flex;
+  position: relative;
+  border: solid 1px;
+}
+
+.cabeza2 img{
+  height: 110px;
+  position: relative;
+  top: 5px;
+  left: 100px;
+}
+
+.titulo_cabecera{
+ position: absolute;
+ color: #ffffff;
+ top: 10px;
+ left: 41%;
+}
+
+
+.menu{
+ margin: 10px 10px 0 0;
+ position: absolute;
+ background: none;
+ height:unset;
+ border: none;
+ left: 30%;
+ top: 65px;
+}
+
+.link{
+  background: #000000;
+  color: white;
+  padding: 10px;
+  border-radius: 20px;
+  font-size: 18px;
+}
+
+.titulo{
+  position: absolute;
+  color: #ffffff;
+  top: 212px;
+  left: 41%;
+ }
+ .titulo2{
+  position: absolute;
+  color: #ffffff;
+  top: 543px;
+  left: 41%;
+ }
+ .titulo3{
+  position: absolute;
+  color: #ffffff;
+  top: 875px;
+  left: 41%;
+ }
+.contenedor { 
+  height: 300px;
+  background-color: #3A1B09;
+  display: flex;
+  margin: 30px 30px 30px 30px;
+  justify-content: center;
+  border: solid 3px ;
+  border-radius: 20px;
+}
+.contenedor img{
+
+margin: 45px 15px 15px 20px;
+
+}
+.descripcion{
+  width: 700px;
+  margin: 0px 20px 15px 15px;
+  align-self: center;
+}
+.descripcion p{
+  color: #ffffff;
+  font-size: 22px;
+  text-align: justify;
+}
+.matrimonial{
+  width: 380px;
+  height: 224.04px;
+  
+}
+.piedepagina{
+  display: flex;
+  justify-content:center;
+  position: relative;
+  height: 105px;
+  align-content: center;
+  background-color: #5A4638;
+}
+
+.piedepagina footer {
+  text-align:center;
+  color:#ffffff;
+}
+
+
+
+
+

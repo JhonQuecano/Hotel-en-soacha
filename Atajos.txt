@@ -1,0 +1,7 @@
+DUPLICAR LINEA HACIA ARRIBA O ABAJO = ALT+SHIFT+FLECHA 
+MOVER LINEA COMPLETA = ALT+FLECHA
+BORRAR LINEA COMPLETA = CTRL+SHIFT+K
+SELECCIONAR LINEA = CTRL+L
+seleccionar todas las apariciones de una palabara = CTRL+SHIFT+L (se puede cambiar la palabra todas las veces que aparece)
+para documentar = CTRL+k+c
+guardar archivo = CTRL SHIFT
